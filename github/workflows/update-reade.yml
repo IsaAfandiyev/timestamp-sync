@@ -19,7 +19,7 @@ node-version: 20
 run: node scripts/update-readme.js
   - name: Commit & push changes
 run: |
-  git config user.name "IsaAfandiyev"
-  git config user.email "isa.efendiyev@users.noreply.github.com"
+  git config user.name "Isabay Afandiyev"
+  git config user.email "isaAfandiyev@users.noreply.github.com"
   git add README.md
   git commit -
